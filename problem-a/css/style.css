@@ -9,8 +9,9 @@ body {
  }
 
  img {
+    height: auto;
     max-height: 400px;
-    max-width: 300px;
+    max-width: 100%;
  }
  .highlighted {
     color: #c99cf0
