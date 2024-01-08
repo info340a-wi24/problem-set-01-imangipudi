@@ -1,10 +1,10 @@
 body {
     font-size: 16px;
-    font-family: 'Helvetica Neue','Helvetica', 'Arial', 'sans-serif' ;
+    font-family:'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
  }
 
  p {
-    line-height: 1.5em;
+    line-height: 1.5;
 
  }
 
@@ -12,5 +12,5 @@ body {
     max-height: 400px;
  }
  .highlight-color {
-    color: #9b78ba;
+    color: #c3a7dc;
  }
