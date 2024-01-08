@@ -10,6 +10,7 @@ body {
 
  img {
     max-height: 400px;
+    max-width: 300px;
  }
  .highlighted {
     color: #c99cf0
